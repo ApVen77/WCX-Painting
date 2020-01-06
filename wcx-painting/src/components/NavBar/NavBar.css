@@ -1,0 +1,13 @@
+.nav-link {
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    font-size: 50px;
+    margin: 20px;
+    float: left;
+}
+
+.nav-link:hover{
+    color: rgb(233, 167, 173);
+    size: 60px;
+}
